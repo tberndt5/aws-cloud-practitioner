@@ -87,8 +87,6 @@ Decks: [[Flashcards - Domain 1]] · [[Flashcards - Domain 2]] · [[Flashcards - 
 
 [[Practice - Domain 1]] · [[Practice - Domain 2]] · [[Practice - Domain 3 (Part 1)]] · [[Practice - Domain 3 (Part 2)]] · [[Practice - Domain 4]] · [[Mock Exam 1]] · [[Mock Exam 2]] · [[Mock Exam 3]]
 
-Your own worked questions are in the `Assessment Test` folder.
-
 ## Official AWS resources
 
 - [AWS Skill Builder: CLF-C02 exam prep](https://skillbuilder.aws/exam-prep/cloud-practitioner) (includes the free Official Practice Question Set)

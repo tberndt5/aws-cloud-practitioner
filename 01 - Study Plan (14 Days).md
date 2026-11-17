@@ -11,7 +11,7 @@ Day 1 is Tuesday 2026-11-17 and Day 14 is Monday 2026-11-30. Shift the dates if 
 > 1. **Flashcards due today** (15–30 min). Do these first, every day, without exception. Spaced repetition only works if you clear the due pile daily.
 > 2. **New material** (45–60 min). Read the day's notes, then answer each note's *Quick self-check* from memory.
 > 3. **New cards** (15–20 min). Start the deck listed for the day.
-> 4. **Practice questions** (15–30 min) on the days listed. For every miss, write down *why the right answer is right and why your answer was wrong*, as you did in the `Assessment Test` folder.
+> 4. **Practice questions** (15–30 min) on the days listed. For every miss, write down *why the right answer is right and why your answer was wrong*.
 
 Target scores: 85% or higher on each practice set before moving on, and 90% or higher on the mock exam by Day 13.
 
@@ -105,7 +105,6 @@ Target scores: 85% or higher on each practice set before moving on, and 90% or h
 - [ ] Redo every practice question you missed, across all sets
 - [ ] Reread the task notes for your two weakest areas
 - [ ] All cheat sheets, once through
-- [ ] Reread your own notes in `Assessment Test`
 
 ### Day 14 (Mon Nov 30): Light review
 - [ ] Flashcards due
